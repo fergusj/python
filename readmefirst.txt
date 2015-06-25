@@ -12,3 +12,5 @@ mixed：工作区不变，reset暂存区、reset当前分支
 soft：工作区不变、暂存区不变、reset当前分支
  
 hard：reset工作区、reset暂存区、reset当前分支
+
+这是一个冲突
